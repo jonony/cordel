@@ -50,10 +50,14 @@ article{
     padding-left: 26px;
 }
 
-#imagem-primaria{
+.imagem-primaria{
+    color: white;
     background-image: url(imagens/background001.jpg);
+    background-color: black;
+   
 }
 
-#imagem-secundaria{
-
+.paragrafo-img{
+    background-color: rgba(0, 0, 0, 0.521);
+    width: 43%;
 }
