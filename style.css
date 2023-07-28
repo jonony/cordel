@@ -9,11 +9,12 @@
 
 header{
     background-color: black;
-    height: 320px;
+    height: 326px;
     display: flex;
     color: white;
     justify-content: center;
     align-items: center;
+    
 }
 
 a{
@@ -33,4 +34,26 @@ nav h2{
     font-size: 20px;    
 }
 
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    font-size: 60px;
+    padding-left: 26px;
+}
 
+article{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    font-size: 60px;
+    padding-left: 26px;
+}
+
+#imagem-primaria{
+    background-image: url(imagens/background001.jpg);
+}
+
+#imagem-secundaria{
+
+}
