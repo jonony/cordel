@@ -24,6 +24,7 @@ header{
     color: white;
     justify-content: center;
     align-items: center;
+
     
 }
 
@@ -54,7 +55,7 @@ section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
-    font-size: 60px;
+    font-size: 4.5vw;
     padding-left: 26px;
     font-family: var(--fonte2);
     font-style: italic;
@@ -89,9 +90,24 @@ article{
 .paragrafo-img{
     background-color: rgba(0, 0, 0, 0.521);
     width: 43%;
+    padding: 6px;
 }
 
 .paragrafo-img2{
     background-color: rgba(0, 0, 0, 0.486);
     width: 43%;
+    padding: 6px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+   text-align: center;
+   padding: 11px;
+   font-family: var(--fonte1);
+   font-weight: 100;
+}
+
+strong{
+    font-size: 18px;
 }
