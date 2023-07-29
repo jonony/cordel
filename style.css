@@ -77,6 +77,7 @@ article{
    background-attachment: fixed;
    background-size: cover;
    background-position: right center;
+   
 }
 
 .imagem-secundaria{
@@ -92,12 +93,15 @@ article{
     background-color: rgba(0, 0, 0, 0.521);
     width: 43%;
     padding: 6px;
+    text-shadow: 1px 2px 0px black;
+
 }
 
 .paragrafo-img2{
     background-color: rgba(0, 0, 0, 0.486);
     width: 43%;
     padding: 6px;
+    text-shadow: 1px 1px 0px black;
 }
 
 footer{
